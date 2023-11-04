@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<img width="1792" alt="Application" src="https://github.com/spksra/eat-n-split/assets/69047778/37bb43bf-34b4-4b9d-af3d-10dd22ba21bb">
 ## Available Scripts
 
 In the project directory, you can run:
